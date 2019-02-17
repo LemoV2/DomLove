@@ -1,7 +1,6 @@
-﻿
-owner=449677422564999168
+token=NTQ2NjUyOTQ5ODA0NDgyNTYw.D0rVxQ.avMRJ2q2TNubdrDoSpXkXrHksAg
+owner=485447972549820426
 prefix= L
 game= OFF ,
 stayinchannel=true
 songinstatus=true 
-token=NTIxMjQ4NTI2ODAyNjE2MzIw.Du5qbA.2q0UWS3wnUdhYigOCxUdbBExTkU
